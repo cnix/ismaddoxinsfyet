@@ -63,7 +63,7 @@ class Maddox
 
                 var answer    = $('p.answer');
                 var now       = new Date();
-                var arrival   = new Date("Wed Apr 06 2011 18:22:00 GMT-0700 (PDT)");
+                var arrival   = new Date("Wed Apr 06 2011 11:22:00 GMT-0700 (PDT)");
                 var here      = arrival < now;
 
                 if (here) {
